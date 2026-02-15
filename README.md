@@ -10,6 +10,7 @@ Berry script for ESP32/Tasmota:
 ### Prerequisites:
    - ESP32 with Tasmota installed
    - Berry activated
+   - Only mi32 firmwares contains ULP berry activation, you should build your firmware from scratch if necessary (tasmotaCompiler would help)
 
 ### Module installation:
 
